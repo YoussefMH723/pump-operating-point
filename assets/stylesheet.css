@@ -1,0 +1,90 @@
+.outermostdiv {
+    font-family: "Times New Roman";
+    background-color: #1b1721;
+    color: #FFFFFF;
+    padding: 20px;
+}
+.division {
+    background-color: #302c36;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.graph {
+    width: 100%;
+    display: inline-block;
+    margin: auto;
+    background-color: #302c36;
+    border-radius: 10px;
+}
+
+
+H1 {
+    text-align: center;
+    margin: 20px;
+}
+
+H2 {
+    margin-bottom: 15px;
+}
+
+H3 {
+    margin: 10px;
+    color: #a688fa;
+}
+
+.slider {
+    margin-top: 7.5px;
+    margin-bottom: 10px;
+}
+
+.rc-slider-track {
+    background-color: #9d79d0;
+}
+.rc-slider-handle {
+    border: solid 2px #7a4fbf;
+    background-color: #8c64c8;
+}
+.uploadfile {
+    width: 100%;
+    border-width: 3px;
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: #7a4fbf;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #908e94;
+    height: 50px;
+    align-content: center;
+}
+A:hover {
+    color: #7a4fbf;
+    font-weight: bold;
+}
+.uploadstatus {
+    color: #a688fa;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}
+.container {
+    display: flex;
+}
+.inputdiv input {
+    width: 150px; /* Adjust width as needed */
+    display: inline-block; /* Make input elements inline */
+    padding: 5px; /* Add padding for better appearance */
+    border: 1px solid #ccc; /* Add a basic border */
+}
+
+input {
+    border-width: 0px 0px 1px 0px;
+    border-color: #7a4fbf;
+    border-radius: 0px;
+    background-color: #0e1012;
+    color: #A0AABA;
+}
+.Select-menu-outer {
+    color: #333;
+}
