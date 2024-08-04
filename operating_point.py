@@ -56,9 +56,6 @@ app.layout = html.Div(
     html.H1(
       "Welcome to Operating Point Calculator"
     ),
-    html.H2(
-      "This is the pump curve used in calculations:",
-    ),
     html.Div(
       [
         html.Div(
